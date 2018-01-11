@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Andreas\\AndroidStudioProjects\\uangkasUSU\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andreas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\e2de59f94513ddab372c063b300976ac\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Andreas\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.2.0.aar\\39affcb71ba8a860f39bf36954f22bb9\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "4,7,10,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "173,388,521,640",
+                        "endLines": "4,9,12,15",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "266,516,635,752"
+                    },
+                    "to": {
+                        "startLines": "3,4,7,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,219,352,471",
+                        "endLines": "3,6,9,12",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "214,347,466,583"
+                    }
+                }
+            ]
+        }
+    ]
+}

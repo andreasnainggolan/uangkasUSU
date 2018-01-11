@@ -1,0 +1,70 @@
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\e4562c836d704477cfd0774d5b94ada6\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\library-0.2.0.aar\39affcb71ba8a860f39bf36954f22bb9\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.2.aar\c6f1f38a93e11b380f3dab0b5debc0d6\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e2de59f94513ddab372c063b300976ac\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\559afae73463db2c38df8343a2f8d3fc\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\23cbfb51847a2dcb1c0d42d56ec8e12e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\ripple-effect-1.3.1.aar\0e3a735267f9b56ada29725a8f89e1d9\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\library-1.0.3.aar\3b91a915c3cb4f3f6ee54db0efc5b572\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.0.aar\5db7ab938303677a62f2594c03ad2cce\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.0.aar\955788773fa6d5e8271bf89c86c77e62\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-v13-25.3.1.aar\c85932db1b3d2827ada33417ac57ab96\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\918e5cb7a4e4629bc95e0b9e72d08434\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a777af90d86f41dc2b6776961fa73371\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\515935f51caf57f0c5c9eff1e6a1c513\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\ccb383a334c0787f82f1bd8f3fa28995\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.0\b258209549457d03e912ec4641735fc88048df99\butterknife-annotations-8.8.0.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f1d5bcfe2129e9abf1392e0cf1f2d34b\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\8bde66b915bcae6b2551ef271b3782f5\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\724edfdbe8b845019280dea6f38b41c3\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbb0d1d6e98b4750c0ada9ae0405053\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\51d1644c7da5bd7b42ef22ed17f4ce39\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\e9690b472824927a62622fa0472a40e0\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b604d8fb11e7c6aebcba1b8e237d9e00\jars\classes.jar'(**.class)
+-injars 'C:\Users\Andreas\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar'(**.class)
+-injars 'C:\Users\Andreas\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar'(**.class)
+-injars 'C:\Users\Andreas\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar'(**.class)
+-injars 'C:\Users\Andreas\AndroidStudioProjects\uangkasUSU\app\build\intermediates\classes\debug'(**.class)
+-outjars 'C:\Users\Andreas\AndroidStudioProjects\uangkasUSU\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Andreas\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\Andreas\AndroidStudioProjects\uangkasUSU\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at C:\Users\Andreas\AndroidStudioProjects\uangkasUSU\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:18
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

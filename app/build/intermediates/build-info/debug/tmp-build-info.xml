@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    build-mode="FULL"
+    density="xhdpi"
+    format="10"
+    plugin-version="3.0.1"
+    timestamp="1515423811504"
+    token="3359096006406244826"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="23957" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3848" />
+    <task
+        name="verifier"
+        duration="2971" />
+
+    <artifact
+        location="C:\Users\Andreas\AndroidStudioProjects\uangkasUSU\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+</instant-run>

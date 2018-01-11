@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Andreas\\AndroidStudioProjects\\uangkasUSU\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andreas\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.2.0.aar\\39affcb71ba8a860f39bf36954f22bb9\\res\\values-sw600dp-land\\values-sw600dp-land.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "181,233,287,349,400,451,505,559,620",
+                        "endColumns": "51,53,61,50,50,53,53,60,51",
+                        "endOffsets": "228,282,344,395,446,500,554,615,667"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,161,223,274,325,379,433,494",
+                        "endColumns": "51,53,61,50,50,53,53,60,51",
+                        "endOffsets": "102,156,218,269,320,374,428,489,541"
+                    }
+                }
+            ]
+        }
+    ]
+}
